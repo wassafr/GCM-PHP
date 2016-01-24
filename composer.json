@@ -1,0 +1,11 @@
+{
+	"name": "wassafr/gcm-php",
+	"type": "library",
+	"license": "proprietary",
+	"description": "GCM PHP library",
+	"keywords": ["GCM", "C2DM", "push", "notification"],
+	"homepage": "http://www.wassa.fr",
+	"autoload": {
+        "psr-4": { "Wassa\\GcmPhp\\": "Wassa/GcmPhp/" }
+    }
+}
